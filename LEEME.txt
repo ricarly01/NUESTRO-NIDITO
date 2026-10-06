@@ -1,0 +1,1 @@
+Abre index.html. Mantén la carpeta fotos junto al archivo. Para publicar, sube index.html y la carpeta fotos completa.
